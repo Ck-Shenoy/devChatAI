@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-# devChatAI
-This AI-powered software uses Gemini APIs to generate code in various file formats and offers real-time chat via Socket.IO. Users can interact seamlessly with the AI for instant code generation, troubleshooting, and coding support, making it an efficient tool for developers.
-=======
 # MERN Stack Project with AI Integration
 
 This project is a full-stack web application built using the MERN stack (MongoDB, Express, React, Node.js) with AI integration using Google Generative AI. The application allows users to register, log in, create projects, and collaborate with other users in real-time. The AI integration provides assistance in generating code and managing project files.
@@ -105,4 +101,3 @@ VITE_API_URL=http://localhost:3000
 ## Contributing
 
 Contributions are welcome! Please open an issue or submit a pull request for any improvements or bug fixes.
->>>>>>> df316ce (readme.md updated)
